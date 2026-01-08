@@ -1,0 +1,10 @@
+C:\Users\1\arbitrum-rust-colearning-darkerkiller\hello_alloy\target\debug\deps\alloy_rlp-6d6c7e85d576fbb1.d: C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\lib.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\decode.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\error.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\encode.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\header.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\../README.md
+
+C:\Users\1\arbitrum-rust-colearning-darkerkiller\hello_alloy\target\debug\deps\liballoy_rlp-6d6c7e85d576fbb1.rmeta: C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\lib.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\decode.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\error.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\encode.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\header.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\../README.md
+
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\lib.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\decode.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\error.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\encode.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\header.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rlp-0.3.12\src\../README.md:

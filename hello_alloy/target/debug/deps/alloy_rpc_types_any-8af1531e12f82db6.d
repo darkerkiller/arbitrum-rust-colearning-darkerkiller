@@ -1,0 +1,9 @@
+C:\Users\1\arbitrum-rust-colearning-darkerkiller\hello_alloy\target\debug\deps\alloy_rpc_types_any-8af1531e12f82db6.d: C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\lib.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\transaction\mod.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\transaction\receipt.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\block.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\../README.md
+
+C:\Users\1\arbitrum-rust-colearning-darkerkiller\hello_alloy\target\debug\deps\liballoy_rpc_types_any-8af1531e12f82db6.rmeta: C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\lib.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\transaction\mod.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\transaction\receipt.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\block.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\../README.md
+
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\lib.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\transaction\mod.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\transaction\receipt.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\block.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-rpc-types-any-1.3.0\src\../README.md:

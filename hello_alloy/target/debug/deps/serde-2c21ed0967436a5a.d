@@ -1,0 +1,12 @@
+C:\Users\1\arbitrum-rust-colearning-darkerkiller\hello_alloy\target\debug\deps\serde-2c21ed0967436a5a.d: C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\1\arbitrum-rust-colearning-darkerkiller\hello_alloy\target\debug\build\serde-4f468e92326fa855\out/private.rs
+
+C:\Users\1\arbitrum-rust-colearning-darkerkiller\hello_alloy\target\debug\deps\libserde-2c21ed0967436a5a.rmeta: C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\1\arbitrum-rust-colearning-darkerkiller\hello_alloy\target\debug\build\serde-4f468e92326fa855\out/private.rs
+
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\1\arbitrum-rust-colearning-darkerkiller\hello_alloy\target\debug\build\serde-4f468e92326fa855\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\1\\arbitrum-rust-colearning-darkerkiller\\hello_alloy\\target\\debug\\build\\serde-4f468e92326fa855\\out
