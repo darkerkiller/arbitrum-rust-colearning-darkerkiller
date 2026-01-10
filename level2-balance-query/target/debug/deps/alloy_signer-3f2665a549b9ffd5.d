@@ -1,0 +1,11 @@
+C:\Users\1\arbitrum-rust-colearning-darkerkiller\level2-balance-query\target\debug\deps\alloy_signer-3f2665a549b9ffd5.d: C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\lib.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\error.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\signer.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\utils.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\../README.md
+
+C:\Users\1\arbitrum-rust-colearning-darkerkiller\level2-balance-query\target\debug\deps\liballoy_signer-3f2665a549b9ffd5.rlib: C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\lib.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\error.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\signer.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\utils.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\../README.md
+
+C:\Users\1\arbitrum-rust-colearning-darkerkiller\level2-balance-query\target\debug\deps\liballoy_signer-3f2665a549b9ffd5.rmeta: C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\lib.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\error.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\signer.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\utils.rs C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\../README.md
+
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\lib.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\error.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\signer.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\utils.rs:
+C:\Users\1\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\alloy-signer-1.4.0\src\../README.md:
